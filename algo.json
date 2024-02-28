@@ -1,0 +1,29 @@
+{
+  "libro": {
+    "titulo": "El Arte de la Programación",
+    "autor": "John Doe",
+    "descripcion": "Un libro que explora los fundamentos de la programación y cómo aplicarlos en la vida real.",
+    "capitulos": [
+      {
+        "titulo": "Introducción a la Programación",
+        "contenido": "Este capítulo introduce los conceptos básicos de la programación, incluyendo variables, tipos de datos y operadores."
+      },
+      {
+        "titulo": "Estructuras de Control",
+        "contenido": "Aquí se exploran las estructuras de control como bucles y condicionales, que son fundamentales para la lógica de los programas."
+      },
+      {
+        "titulo": "Funciones y Recursividad",
+        "contenido": "Este capítulo se centra en las funciones, cómo definirlas y cómo utilizarlas para estructurar el código de manera más eficiente."
+      },
+      {
+        "titulo": "Programación Orientada a Objetos",
+        "contenido": "Introduce los principios de la Programación Orientada a Objetos, incluyendo clases, objetos, herencia y polimorfismo."
+      },
+      {
+        "titulo": "Pruebas y Mantenimiento",
+        "contenido": "Finalmente, se discuten las prácticas recomendadas para probar y mantener el código, asegurando su calidad y fiabilidad."
+      }
+    ]
+  }
+}
